@@ -1,0 +1,2 @@
+# getTime
+Using getTime() method 
